@@ -12,6 +12,6 @@ import lombok.Setter;
 public class Player {
 
     private String name;
-    private String post;
+    private String position;
     private int level;
 }
